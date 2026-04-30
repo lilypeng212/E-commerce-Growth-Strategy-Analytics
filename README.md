@@ -32,8 +32,10 @@ and low-traffic but high-conversion products as opportunities to scale through i
 
 ---
 
-## 🧠 Framework
+## ✏️ Conceptual Illustration
 
 ![E-commerce Conversion Funnel](ecommerce_funnel.png)
 
 This funnel illustrates key drop-off points across the customer journey. CTR, Add-to-Cart Rate, and CVR are used to evaluate conversion efficiency and identify opportunities to improve engagement and purchase performance.
+
+> *Note: All figures shown are for illustrative purposes only and do not represent actual business data.*
