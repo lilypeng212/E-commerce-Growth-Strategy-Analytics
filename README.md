@@ -1,3 +1,13 @@
+# Business Analyst — E-commerce Analytics
+
+**Role:** Business Analyst (Full-Time: 40 hrs/wk)  
+**When:** Nov. 2024 – Nov. 2025  
+**Location:** Taipei, Taiwan  
+
+> **Disclaimer:** This portfolio uses sanitized descriptions and synthetic examples only.  
+> No proprietary code, data, screenshots, internal IDs, or client configurations are included.
+
+---
 # E-commerce Growth Strategy & Analytics
 
 ## 📌 Problem
