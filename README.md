@@ -42,5 +42,5 @@ Key components:
 ---
 
 ## 🧠 Framework
-![E-commerce Conversion Funnel](Ecommerce Funnel.png)
+![E-commerce Conversion Funnel](ecommerce_funnel.png)
 This funnel highlights key conversion points across the e-commerce customer journey. CTR, Add-to-Cart Rate, and CVR are used to identify where product visibility, engagement, and purchase conversion can be improved.
