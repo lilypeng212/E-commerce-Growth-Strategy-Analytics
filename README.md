@@ -1,13 +1,3 @@
-# McKinsey - Business Analyst
-
-**Role:** Business Analyst (Full-Time)  
-**When:** Nov. 2024 – Nov. 2025  
-**Location:** Taipei, Taiwan  
-
-> **Disclaimer:** This portfolio uses sanitized descriptions and synthetic examples only.  
-> No proprietary code, data, screenshots, internal IDs, or client configurations are included.
-
----
 # E-commerce Growth Strategy & Analytics
 
 ## 📌 Problem
