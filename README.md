@@ -1,36 +1,39 @@
 # E-commerce Growth Strategy & Analytics
 
 ## 📌 Problem
-The e-commerce platform lacked visibility into product performance and customer conversion behavior, resulting in missed growth opportunities and inefficient resource allocation.
+The e-commerce platform aimed to expand its third-party (3P) marketplace but faced supply gaps in specific product categories, limiting assortment coverage and overall revenue growth. In addition, limited visibility into product performance and customer conversion behavior made it difficult to prioritize high-impact opportunities.
 
 ---
 
 ## 💡 Solution
-Designed a structured analytics framework to identify revenue drivers, optimize product assortment, and improve conversion rates.
+As part of a consulting team supporting 3P business expansion, I led dashboard development and thematic analysis to enhance data visibility and support decision-making.
 
-Key components:
-- Defined core business metrics (GMV, AOV, Conversion Rate)
-- Built product performance segmentation logic
-- Designed customer funnel analysis framework
-- Proposed dashboard for continuous monitoring
+Key contributions:
+- Built automated dashboards to track core business metrics (GMV, Conversion Rate, Purchasing Users)
+- Identified product assortment gaps and prioritized high-opportunity categories
+- Designed customer funnel analysis to diagnose conversion drop-offs
+- Delivered recurring analytical insights to internal stakeholders and client teams
 
 ---
 
 ## 🔍 Highlights
-- Developed KPI tree linking traffic → conversion → revenue
-- Identified high-traffic but low-conversion product segments
-- Designed customer segmentation logic (new vs returning users)
-- Proposed experiment framework for conversion optimization
+- Automated recurring reporting workflows, significantly improving operational efficiency
+- Developed KPI frameworks linking traffic → conversion → GMV
+- Identified high-traffic but low-conversion product segments as key growth opportunities,
+and low-traffic but high-conversion products as opportunities to scale through increased exposure
+- Translated analysis into actionable insights for daily business decisions
 
 ---
 
 ## 📈 Impact
-- Identified potential 10–15% GMV uplift through product optimization
-- Improved decision-making speed by structuring key metrics
-- Enabled data-driven prioritization for product and marketing teams
+- Contributed to 3% YoY GMV growth by identifying supply gaps and high-impact optimization opportunities in the 3P marketplace
+- Increased reporting efficiency by 4x through automation, significantly reducing manual workload
+- Enabled faster and more effective data-driven decision-making for both internal teams and client stakeholders  
 
 ---
 
 ## 🧠 Framework
+
 ![E-commerce Conversion Funnel](ecommerce_funnel.png)
-This funnel highlights key conversion points across the e-commerce customer journey. CTR, Add-to-Cart Rate, and CVR are used to identify where product visibility, engagement, and purchase conversion can be improved.
+
+This funnel illustrates key drop-off points across the customer journey. CTR, Add-to-Cart Rate, and CVR are used to evaluate conversion efficiency and identify opportunities to improve engagement and purchase performance.
