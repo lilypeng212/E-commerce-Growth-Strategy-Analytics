@@ -1,6 +1,6 @@
-# Business Analyst — E-commerce Analytics
+# McKinsey - Business Analyst
 
-**Role:** Business Analyst (Full-Time: 40 hrs/wk)  
+**Role:** Business Analyst (Full-Time)  
 **When:** Nov. 2024 – Nov. 2025  
 **Location:** Taipei, Taiwan  
 
