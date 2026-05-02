@@ -52,10 +52,10 @@ Key metric structure:
   - Total Exposure  
 
 - **Engagement**
-  - CTR (Click-Through Rate) = Clicks / Impressions  
+  - CTR (Click-Through Rate) = Click / Impression  
 
 - **Conversion**
-  - CVR (Conversion Rate) = Orders / Clicks  
+  - CVR (Conversion Rate) = Order / Click  
 
 - **Transaction**
   - Orders  
