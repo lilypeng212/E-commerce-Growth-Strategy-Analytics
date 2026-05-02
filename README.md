@@ -34,13 +34,15 @@ and low-traffic but high-conversion products as opportunities to scale through i
 
 ## 📊 KPI Framework
 
-![KPI Tree](kpi_tree.png)
+Core KPI relationship:
 
-This KPI framework represents the end-to-end e-commerce performance funnel, linking traffic, engagement, conversion, and revenue into a unified analytical structure.
+GMV  
+→ Orders  
+→ CVR (Conversion Rate)  
+→ CTR (Click-Through Rate)  
+→ Exposure (Search / Recommendation)
 
-Core logic:
-
-Traffic → Engagement → Conversion → Transaction → Revenue
+This framework represents the end-to-end e-commerce performance funnel, linking traffic, engagement, conversion, and revenue into a unified analytical structure.
 
 Key metric structure:
 
@@ -61,14 +63,13 @@ Key metric structure:
   - New Users  
 
 - **Revenue**
-  - GMV (Gross Merchandise Value)  
-  - 3P Revenue  
+  - 3P GMV  
 
 - **Growth Metrics**
   - MoM% (Month-over-Month Growth)  
   - YoY% (Year-over-Year Growth)  
 
-This framework enables structured analysis across the funnel and helps identify key drivers of growth.
+This structure supports systematic diagnosis of performance across the funnel and helps identify key drivers of growth.
 
 ---
 
