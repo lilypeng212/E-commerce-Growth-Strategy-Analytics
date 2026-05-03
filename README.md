@@ -52,10 +52,10 @@ Key metric structure:
   - Total Exposure  
 
 - **Engagement**
-  - CTR (Click-Through Rate) = Click / Impression  
+  - CTR (Click-Through Rate) = Clicks / Impressions  
 
 - **Conversion**
-  - CVR (Conversion Rate) = Order / Click  
+  - CVR (Conversion Rate) = Orders / Clicks  
 
 - **Transaction**
   - Orders  
@@ -63,7 +63,9 @@ Key metric structure:
   - New Users  
 
 - **Revenue**
-  - 3P GMV  
+  - 3P GMV
+  - AOV (Average Order Value)  
+  - ASP (Average Selling Price)  
 
 - **Growth Metrics**
   - MoM% (Month-over-Month Growth)  
@@ -101,9 +103,9 @@ Key features:
 
 The dashboard enables:
 
-- Identification of high-traffic but low-conversion segments (optimization opportunities)  
-- Detection of high-conversion but low-exposure products (scaling opportunities)  
-- Category-level performance comparison for assortment and marketing decisions  
+- Monitoring performance across each stage of the funnel  
+- Quickly identifying where bottlenecks occur (traffic, engagement, or conversion)  
+- Tracking overall performance trends and growth over time  
 
 > *Note: This visualization is a mockup for demonstration purposes only and does not represent real business data.*
 
