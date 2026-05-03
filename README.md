@@ -46,30 +46,16 @@ This framework represents the end-to-end e-commerce performance funnel, linking 
 
 Key metric structure:
 
-- **Traffic (Exposure)**
-  - Search Exposure
-  - Recommendation Exposure
-  - Total Exposure  
+| Stage        | Key Metrics | Definition |
+|-------------|------------|-----------|
+| Traffic     | Search Exposure / Recommendation Exposure / Total Exposure | User exposure across traffic sources |
+| Engagement  | CTR        | Clicks / Impressions |
+| Conversion  | CVR        | Orders / Clicks |
+| Transaction | Orders / Purchasing Users / New Users | Conversion outcomes |
+| Revenue     | GMV / AOV / ASP | Monetization performance |
+| Growth      | MoM% / YoY% | Performance trends over time |
 
-- **Engagement**
-  - CTR (Click-Through Rate) = Clicks / Impressions  
-
-- **Conversion**
-  - CVR (Conversion Rate) = Orders / Clicks  
-
-- **Transaction**
-  - Orders  
-  - Purchasing Users  
-  - New Users  
-
-- **Revenue**
-  - 3P GMV
-  - AOV (Average Order Value)  
-  - ASP (Average Selling Price)  
-
-- **Growth Metrics**
-  - MoM% (Month-over-Month Growth)  
-  - YoY% (Year-over-Year Growth)  
+This framework structures the e-commerce funnel from traffic to revenue, enabling clear performance diagnosis across each stage.
 
 This structure supports systematic diagnosis of performance across the funnel and helps identify key drivers of growth.
 
