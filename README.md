@@ -33,8 +33,7 @@ Key contributions:
 
 ## 📊 KPI Framework
 
-**Core KPI relationship:**
-
+**Core KPI relationship:**  
 GMV  
 → Orders  
 → CVR (Conversion Rate)  
