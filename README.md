@@ -35,7 +35,6 @@ Key contributions:
 
 **Core KPI relationship:**  
 <div style="margin-left: 20px;">
-
 GMV  
 ↳ Orders  
 ↳ CVR (Conversion Rate)  
