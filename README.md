@@ -34,11 +34,16 @@ Key contributions:
 ## 📊 KPI Framework
 
 **Core KPI relationship:**  
-> GMV  
-> → Orders  
-> → CVR (Conversion Rate)  
-> → CTR (Click-Through Rate)  
-> → Exposure (Search / Recommendation)
+
+<div style="margin-left: 20px;">
+
+GMV  
+↳ Orders  
+↳ CVR (Conversion Rate)  
+↳ CTR (Click-Through Rate)  
+↳ Exposure (Search / Recommendation)
+
+</div>
 
 This framework defines the end-to-end e-commerce performance funnel, linking traffic, engagement, conversion, and revenue into a unified analytical structure.
 
