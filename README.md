@@ -34,7 +34,6 @@ Key contributions:
 ## 📊 KPI Framework
 
 **Core KPI relationship:**  
-
 <div style="margin-left: 20px;">
 
 GMV  
