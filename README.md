@@ -6,29 +6,28 @@ The e-commerce platform aimed to expand its third-party (3P) marketplace but fac
 ---
 
 ## 💡 Solution
-As part of a consulting team supporting 3P business expansion, I led dashboard development and thematic analysis to enhance data visibility and support decision-making.
+As part of a consulting team supporting 3P business expansion, I led the development of an automated reporting and analytics framework to enhance data visibility and support decision-making.
 
 Key contributions:
-- Built automated dashboards to track core business metrics (GMV, Conversion Rate, Purchasing Users)
-- Identified product assortment gaps and prioritized high-opportunity categories
-- Designed customer funnel analysis to diagnose conversion drop-offs
-- Delivered recurring analytical insights to internal stakeholders and client teams
+- Built automated reports and dashboards to track core business metrics (GMV, Conversion Rate, Purchasing Users)  
+- Designed a funnel-based KPI structure to standardize performance tracking across traffic, conversion, and revenue  
+- Identified product assortment gaps and prioritized high-opportunity categories  
+- Delivered recurring analytical insights to internal stakeholders and client teams  
 
 ---
 
 ## 🔍 Highlights
-- Automated recurring reporting workflows, significantly improving operational efficiency
-- Developed KPI frameworks linking traffic → conversion → GMV
-- Identified high-traffic but low-conversion product segments as key growth opportunities,
-and low-traffic but high-conversion products as opportunities to scale through increased exposure
-- Translated analysis into actionable insights for daily business decisions
+- Automated recurring reporting workflows, significantly improving operational efficiency  
+- Developed KPI frameworks linking traffic → conversion → GMV  
+- Identified performance gaps and scaling opportunities across the funnel  
+- Translated analysis into actionable insights for ongoing business decisions  
 
 ---
 
 ## 📈 Impact
-- Contributed to 3% YoY GMV growth by identifying supply gaps and high-impact optimization opportunities in the 3P marketplace
-- Increased reporting efficiency by 4x through automation, significantly reducing manual workload
-- Enabled faster and more effective data-driven decision-making for both internal teams and client stakeholders  
+- Contributed to 3% YoY GMV growth by identifying supply gaps and optimization opportunities in the 3P marketplace  
+- Increased reporting efficiency by 4x through automation, significantly reducing manual workload  
+- Enabled faster and more consistent data-driven decision-making across teams  
 
 ---
 
@@ -42,9 +41,7 @@ GMV
 → CTR (Click-Through Rate)  
 → Exposure (Search / Recommendation)
 
-This framework represents the end-to-end e-commerce performance funnel, linking traffic, engagement, conversion, and revenue into a unified analytical structure.
-
-Key metric structure:
+This framework defines the end-to-end e-commerce performance funnel, linking traffic, engagement, conversion, and revenue into a unified analytical structure.
 
 | Stage        | Key Metrics | Definition |
 |-------------|------------|-----------|
@@ -55,21 +52,17 @@ Key metric structure:
 | Revenue     | GMV / AOV / ASP | Monetization performance |
 | Growth      | MoM% / YoY% | Performance trends over time |
 
-This framework structures the e-commerce funnel from traffic to revenue, enabling clear performance diagnosis across each stage.
-
-This structure supports systematic diagnosis of performance across the funnel and helps identify key drivers of growth.
+This structure enables systematic diagnosis of performance across each stage of the funnel.
 
 ---
 
-## 📊 Dashboard — Performance Monitoring
+## 📊 Reporting & Analytics Framework
 
-![Keyword Dashboard](keyword_dashboard_looker_style_top1000.png)
+This reporting and analytics framework was designed to support end-to-end e-commerce performance monitoring using the defined KPI structure.
 
-This dashboard demonstrates how e-commerce performance can be monitored in a real business environment using a funnel-based KPI framework.
+It consists of multiple automated reports and dashboards, integrating traffic (search and recommendation), user behavior (clicks), and transaction data (orders, GMV) into a unified analytical view.
 
-It integrates traffic sources (search vs. recommendation), user behavior, and conversion outcomes into a unified analytical view.
-
-Key features:
+Key functionalities:
 
 - **Traffic Breakdown**
   - Separate tracking of search and recommendation exposure  
@@ -77,23 +70,27 @@ Key features:
 
 - **Funnel Analysis**
   - Exposure → CTR → CVR → Orders → GMV  
-  - Identification of drop-off points across the customer journey  
+  - Enables quick identification of bottlenecks across the funnel  
 
 - **Dynamic KPI Analysis**
-  - Toggle between search, recommendation, and combined metrics  
-  - Support flexible performance comparison across dimensions  
+  - Metric switching between search, recommendation, and overall performance  
+  - Flexible comparison across business dimensions  
 
-- **Growth Tracking**
-  - MoM% and YoY% for trend analysis  
-  - Monitoring performance changes over time  
+- **Category-Level Analysis**
+  - Performance breakdown by product category  
+  - Identifies high- and low-performing segments  
 
-The dashboard enables:
+- **Interactive Filtering**
+  - Dynamic filters for traffic source, category, and key dimensions  
+  - Supports drill-down analysis  
 
-- Monitoring performance across each stage of the funnel  
-- Quickly identifying where bottlenecks occur (traffic, engagement, or conversion)  
-- Tracking overall performance trends and growth over time  
+- **Time-Based Analysis**
+  - Automated MTD, MoM, and YTD/YoY calculations  
+  - Implemented using Power Query (M language) for consistent metric logic  
+  - Enables trend tracking and performance monitoring over time  
 
-> *Note: This visualization is a mockup for demonstration purposes only and does not represent real business data.*
+This framework enables stakeholders to systematically diagnose performance issues and track growth across the funnel.  
+It reflects the full analytical workflow, including data integration, transformation, and metric standardization.
 
 ---
 
