@@ -99,7 +99,7 @@ It reflects the full analytical workflow, including data integration, transforma
 
 ## ✏️ Conceptual Illustration
 
-![E-commerce Conversion Funnel](ecommerce_conversion_funnel_new.png)
+![E-commerce Conversion Funnel](Image/ecommerce_conversion_funnel_new.png)
 
 This funnel illustrates key drop-off points across the customer journey. CTR, Add-to-Cart Rate, and CVR are used to evaluate conversion efficiency and identify opportunities to improve engagement and purchase performance.
 
